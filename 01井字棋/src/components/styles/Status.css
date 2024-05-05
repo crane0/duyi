@@ -1,0 +1,24 @@
+.status-box {
+    font-size: 2em;
+    display: inline-block;
+}
+
+.red {
+    color: #e66465;
+}
+
+.black {
+    color: #000;
+}
+
+.blackWin {
+    color: #000;
+}
+
+.redWin {
+    color: #e66465;
+}
+
+.equal {
+    color: #666;
+}
